@@ -1,0 +1,5 @@
+c:\users\jose.mesquita\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.dll
+c:\users\jose.mesquita\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.pdb
+c:\users\jose.mesquita\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
+c:\users\jose.mesquita\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb
+c:\users\jose.mesquita\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+c:\users\jose.mesquita\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.dll
+c:\users\jose.mesquita\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.pdb
+c:\users\jose.mesquita\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.dll
+c:\users\jose.mesquita\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.pdb
